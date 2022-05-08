@@ -23,7 +23,7 @@ For more information on exactly how {% data variables.product.prodname_codespace
 
 ## Creating your codespace
 
-1. Navigate to the [template repository](https://github.com/2percentsilk/haikus-for-codespaces) and select **Use this template**. 
+1. lol my name is llllllllllllllllllllllllllllllllllllllllllNavigate to the [template repository](https://github.com/2percentsilk/haikus-for-codespaces) and select **Use this template**. 
 
 2. Name your repository, select your preferred privacy setting, and click **Create repository from template**.
 
